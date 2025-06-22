@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+.env
+venv/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Virtual Environment
+venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+
+# Test output
+.coverage
+*.cover
+*.py,cover
+.hypothesis
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# FastAPI specific
+*.db
+*.sqlite3
+
+# Other
+*.bak
+*.swp
+*.tmp
